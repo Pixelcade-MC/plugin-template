@@ -1,0 +1,4 @@
+main: ${group}.${name}
+name: ${name}
+version: ${version}
+api-version: ${mcVersion}
